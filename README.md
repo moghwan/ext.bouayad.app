@@ -14,7 +14,7 @@
   
   <img src="https://img.shields.io/github/issues/moghwan/ext.bouayad.app?color=purple" alt="Issues">
   <img src="https://img.shields.io/github/issues-pr/moghwan/ext.bouayad.app?color=lightgrey" alt="Pull requests">
-  <img src="https://img.shields.io/github/license/moghwan/ext.bouayad.app?color=white" alt="License">
+  <img src="https://img.shields.io/github/license/moghwan/ext.bouayad.app" alt="License">
 
   <a href="https://twitter.com/bouayadapp">
     <img src="https://img.shields.io/badge/@bouayadapp-follow-blue.svg?color=9cf" alt="Twitter">
@@ -29,6 +29,8 @@
 
 ## Features
 - All of mobile viewport features of [https://github.com/moghwan/web.bouayad.app](https://github.com/moghwan/web.bouayad.app) as a popup.
+
+<img src="./screenshot-edge.png" alt="Bouayadapp" />
 
 ## Installing the extension
 - Firefox: (In review) [https://addons.mozilla.org/firefox/addon/bouayadapp-اليومية-العصرية](https://addons.mozilla.org/firefox/addon/bouayadapp-اليومية-العصرية/)
