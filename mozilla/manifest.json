@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "BouayadApp Extension",
+  "version": "1.0.0",
+  "applications": {
+    "gecko": {
+      "id": "bouayadapp@moghwan.me",
+      "strict_min_version": "59.0"
+    }
+  },
+  "browser_action": {
+    "browser_style": true,
+    "default_icon": "icons/icon.png",
+    "default_popup": "popup/popup.html",
+    "theme_icons": [
+      {
+        "dark": "icons/icon.png",
+        "light": "icons/icon-light.png",
+        "size": 19
+      }
+    ]
+  }
+}
