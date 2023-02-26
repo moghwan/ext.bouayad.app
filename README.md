@@ -27,7 +27,7 @@
 </p>
 
 ## Features
-- All of mobile viewport features of [web.bouayad.app](https://github.com/moghwan/web.bouayad.app) as a popup.
+- All of mobile viewport features of [web.bouayad.app](https://github.com/moghwan/web.bouayad.app) as a popup
 
 <img src="./screenshot-edge.png" alt="Bouayadapp" />
 
@@ -37,18 +37,19 @@
 
 ### Manually:
 <details>
-<summary>Firefox</summary>
-TBD
-</details>
-<details>
 <summary>Chromium based browsers (Microsoft Edge, Brave, Google Chrome...)</summary>
-TBD
+  
+- Navigate to [chrome://extensions/](chrome://extensions/)
+- Enable **Developer mode**
+- Click **Load unpacked** and select the [chromium](https://github.com/moghwan/ext.bouayad.app/tree/master/chromium) folder after pulling the repo
+- Done
+  
 </details>
 
 ## Contributing
 - The project is a simple iframe which [this repository](https://web.bouayad.app) is the source
 - Any improvements or a feature request are greatly appreciated!
-- If you want to contribute to the source page, please refer to the **contributing** section of the [corresponding project](https://github.com/moghwan/web.bouayad.app#contributing).
+- If you want to contribute to the source page, please refer to the **contributing** section of the [corresponding project](https://github.com/moghwan/web.bouayad.app#contributing)
 
 ## Stay in touch
 * Author - [Marwane Chaoui](https://twitter.com/moghwan)
@@ -56,4 +57,4 @@ TBD
 * Twitter - [@BouayadApp](https://twitter.com/bouayadapp)
 
 ## License
-See the [LICENSE](./LICENSE) file for licensing information.
+See the [LICENSE](./LICENSE) file for licensing information
