@@ -28,13 +28,13 @@
 </p>
 
 ## Features
-- All of mobile viewport features of [https://github.com/moghwan/web.bouayad.app](https://github.com/moghwan/web.bouayad.app) as a popup.
+- All of mobile viewport features of [web.bouayad.app](https://github.com/moghwan/web.bouayad.app) as a popup.
 
 <img src="./screenshot-edge.png" alt="Bouayadapp" />
 
 ## Installing the extension
-- Firefox: (In review) [https://addons.mozilla.org/firefox/addon/bouayadapp-اليومية-العصرية](https://addons.mozilla.org/firefox/addon/bouayadapp-اليومية-العصرية/)
-- Edge: (In review)
+- Firefox: [https://addons.mozilla.org/firefox/addon/bouayadapp-اليومية-العصرية](https://addons.mozilla.org/firefox/addon/bouayadapp-اليومية-العصرية/)
+- Edge: (under review)
 
 ### Manually:
 <details>
@@ -47,9 +47,9 @@ TBD
 </details>
 
 ## Contributing
-- The project is a simple iframe which the source is [web.bouayad.app](https://web.bouayad.app)
+- The project is a simple iframe which [this repository](https://web.bouayad.app) is the source
 - Any improvements or a feature request are greatly appreciated!
-- If you want to contribute to the source page, please refer to the [corresponding project](https://github.com/moghwan/web.bouayad.app).
+- If you want to contribute to the source page, please refer to the **contributing** section of the [corresponding project](https://github.com/moghwan/web.bouayad.app#contributing).
 
 ## Stay in touch
 * Author - [Marwane Chaoui](https://twitter.com/moghwan)
