@@ -35,8 +35,8 @@
 
 ## Installing the extension
 - Firefox: [https://addons.mozilla.org/firefox/addon/bouayadapp-اليومية-العصرية](https://addons.mozilla.org/firefox/addon/bouayadapp-اليومية-العصرية/)
-- Edge: [https://microsoftedge.microsoft.com/addons/detail/bouayadapp-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B5/hjkanamopcgpejnjckfkocleokagaeak](https://microsoftedge.microsoft.com/addons/detail/bouayadapp-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B5/hjkanamopcgpejnjckfkocleokagaeak)
-- Edge: (under review)
+- Edge: [https://microsoftedge.microsoft.com/addons/detail/bouayadapp-اليومية-العص/hjkanamopcgpejnjckfkocleokagaeak](https://microsoftedge.microsoft.com/addons/detail/bouayadapp-اليومية-العص/hjkanamopcgpejnjckfkocleokagaeak)
+- Chrome: (under review)
 
 ### Manually:
 <details>
