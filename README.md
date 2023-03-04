@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.bouayad.app" target="blank"><img src="https://github.com/moghwan/web.bouayad.app/blob/master/src/assets/img/favicon.png?raw=true" width="100" alt="Bouayadapp" /></a>
+  <a href="https://www.bouayad.app" target="blank"><img src="./icon.png" width="100" alt="Bouayadapp" /></a>
 </p>
 
 <p align="center">
@@ -35,6 +35,7 @@
 
 ## Installing the extension
 - Firefox: [https://addons.mozilla.org/firefox/addon/bouayadapp-اليومية-العصرية](https://addons.mozilla.org/firefox/addon/bouayadapp-اليومية-العصرية/)
+- Edge: [https://microsoftedge.microsoft.com/addons/detail/bouayadapp-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B5/hjkanamopcgpejnjckfkocleokagaeak](https://microsoftedge.microsoft.com/addons/detail/bouayadapp-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B5/hjkanamopcgpejnjckfkocleokagaeak)
 - Edge: (under review)
 
 ### Manually:
