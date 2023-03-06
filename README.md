@@ -4,13 +4,11 @@
 
 <p align="center">
  
-  <!--
-  <a href="https://addons.mozilla.org/firefox/addon/bouayadapp-اليومية-العصرية/">
-    <img src="https://img.shields.io/amo/stars/bouayadapp-اليومية-العصرية?label=Firefox%20Rating&style=flat&logo=firefox" alt="Firefox addon">
-  </a>
-  -->
   <a href="https://addons.mozilla.org/firefox/addon/bouayadapp-اليومية-العصرية/">
     <img src="https://img.shields.io/amo/users/bouayadapp-اليومية-العصرية?label=Firefox%20Users&style=flat&logo=firefox" alt="Firefox addon">
+  </a>
+  <a href="https://chrome.google.com/webstore/detail/bouayadapp-اليومية-العصري/homjiaebdnpmepkeiiipamadbbpkgcij">
+    <img src="https://img.shields.io/chrome-web-store/users/homjiaebdnpmepkeiiipamadbbpkgcij?label=Chrome%20Users&style=flat&logo=googlechrome" alt="Chrome addon">
   </a>
   
   <img src="https://img.shields.io/github/issues/moghwan/ext.bouayad.app?color=purple" alt="Issues">
