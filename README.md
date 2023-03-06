@@ -34,18 +34,7 @@
 ## Installing the extension
 - Firefox: [https://addons.mozilla.org/firefox/addon/bouayadapp-اليومية-العصرية](https://addons.mozilla.org/firefox/addon/bouayadapp-اليومية-العصرية/)
 - Edge: [https://microsoftedge.microsoft.com/addons/detail/bouayadapp-اليومية-العص/hjkanamopcgpejnjckfkocleokagaeak](https://microsoftedge.microsoft.com/addons/detail/bouayadapp-اليومية-العص/hjkanamopcgpejnjckfkocleokagaeak)
-- Chrome: (under review)
-
-### Manually:
-<details>
-<summary>Chromium based browsers (Microsoft Edge, Brave, Google Chrome...)</summary>
-  
-- Navigate to [chrome://extensions/](chrome://extensions/)
-- Enable **Developer mode**
-- Click **Load unpacked** and select the [chromium](https://github.com/moghwan/ext.bouayad.app/tree/master/chromium) folder after pulling the repo
-- Done
-  
-</details>
+- Chrome: [https://chrome.google.com/webstore/detail/bouayadapp-اليومية-العصري/homjiaebdnpmepkeiiipamadbbpkgcij](https://chrome.google.com/webstore/detail/bouayadapp-اليومية-العصري/homjiaebdnpmepkeiiipamadbbpkgcij)
 
 ## Contributing
 - The project is a simple iframe which [this repository](https://web.bouayad.app) is the source
