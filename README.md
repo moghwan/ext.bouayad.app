@@ -21,10 +21,10 @@
     <img src="https://img.shields.io/badge/@bouayadapp-follow-blue.svg?color=9cf&logo=twitter" alt="Twitter">
   </a>
   <a href="https://www.buymeacoffee.com/moghwan">
-    <img src="https://img.shields.io/badge/buymeacoffee-donate-yellow.svg?logo=buymeacoffee" alt="buymeacoffee">
+    <img src="https://img.shields.io/badge/buymeacoffee-support-yellow.svg?logo=buymeacoffee" alt="buymeacoffee">
   </a>
   <a href="https://paypal.me/chaouimar1">
-    <img src="https://img.shields.io/badge/Paypal-donate-navy.svg?logo=paypal" alt="Paypal">
+    <img src="https://img.shields.io/badge/Paypal-support-navy.svg?logo=paypal" alt="Paypal">
   </a>
 </p>
 
